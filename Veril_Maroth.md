@@ -6,7 +6,7 @@
 ## BASIC INFORMATION
 
 **Character Name:** Veril Maroth  
-**Player Name:** [Your Name]  
+**Player Name:** Zach
 **Level:** 1  
 **Paths:** Warrior (Soldier)  
 **Ancestry:** Human (Alethi)  
@@ -18,27 +18,27 @@
 ### Attributes
 - **Strength:** 3
 - **Speed:** 2
-- **Intellect:** 1
-- **Willpower:** 3
+- **Intellect:** 2
+- **Willpower:** 2
 - **Awareness:** 2
 - **Presence:** 1
 
 ### Defenses
 - **Physical Defense:** 15 (10 + Str 3 + Spd 2)
-- **Cognitive Defense:** 14 (10 + Int 1 + Wil 3)
+- **Cognitive Defense:** 14 (10 + Int 2 + Wil 2)
 - **Spiritual Defense:** 13 (10 + Awa 2 + Pre 1)
 
 ### Resources
 - **Health Maximum:** 13 (10 + Str 3)
 - **Health Current:** 13
-- **Focus Maximum:** 5 (2 + Wil 3)
+- **Focus Maximum:** 4 (2 + Wil 2)
 - **Focus Current:** 5
 - **Investiture Maximum:** 0 (not yet a Radiant)
 - **Investiture Current:** 0
 - **Deflect:** 2 (from Breastplate)
 
 ### Other Stats
-- **Lifting Capacity:** 500 lbs. (Str 3 × 100 + 200)
+- **Lifting Capacity:** 500 lbs. (Str 3 × 100 + 200) // Not sure if this is Right... Seems like a lot
 - **Movement:** 25 ft. (base 30, -5 for Str 3 in armor)
 - **Recovery Die:** 1d8 (Willpower 3)
 - **Senses Range:** 10 ft. when obscured
@@ -163,7 +163,7 @@
 **Dahn Rank:** 10th (formerly 7th)  
 **House Sigil:** An axehound with a gemheart in its jaws  
 **House Colors:** Azure (deep blue) and Bronze  
-**House Motto:** "Value in All Things"
+**House Motto:** "The Hunt Yields Fortune"
 
 **House Business:**
 - **Primary:** Gemheart brokerage - buying gemhearts from plateau runs, selling to foreign markets and Alethi soulcasters
