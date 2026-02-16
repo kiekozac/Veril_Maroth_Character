@@ -13,6 +13,33 @@
 
 ---
 
+## PHYSICAL APPEARANCE
+
+### Build & Bearing
+**Tall and Athletic:** Strong from military training and daily drills. Moves with controlled, economical precision.
+
+**Military Bearing:** His upright carriage projects authority despite his dahn rank. His bearing suggests wealth and education - though he's fought through a bitter life to maintain it.
+
+### Facial Features
+**Intelligent Features:** His countenance carries an intelligent cast, older in expression than his late twenties would suggest - the look of someone who's seen hardship and made hard choices. Strong jaw, often clenched. Dark eyebrows that contrast with his lighter eyes. A half-civilized ferocity lurks beneath the surface, visible to close observers.
+
+**Dark Alethi Features:** Despite his light eyes, he retains the dark features characteristic of his Alethi heritage - black hair, darker complexion, strong bone structure.
+
+### Eyes
+**Light Hazel:** Deep-set, pale amber-brown with green flecks, light enough to mark his lighteyes status. Capable of genuine warmth, but his gaze is most often cool and assessing. His most distinctive feature: people feel studied under his attention.
+
+### Hair
+**Short Black:** Traditional Alethi black hair kept short in military style. Well-groomed and maintained. Clean-shaven face with military precision.
+
+### Overall Impression
+Veril Maroth carries himself with the controlled confidence of a trained officer. He retains a great deal of reserve, prone to brooding but rarely revealing what lies beneath.
+
+Despite the polish and careful presentation, there's something unsettling about him - an intensity in those watchful, singular eyes. The refinement seems like a veneer over something darker: a fierce, wolfish quality.
+
+He looks capable and intelligent, someone who's learned to survive by being smarter and more calculated than necessary. His aristocratic bone structure and careful grooming mark his breeding, but the scars and that unsettling intensity mark what circumstances have forced him to become.
+
+---
+
 ## ATTRIBUTES & DEFENSES
 
 ### Attributes
